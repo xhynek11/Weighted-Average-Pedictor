@@ -1,0 +1,6 @@
+IC1,A,7,F
+DAK,C,6,F
+EK1,N,5,T
+SOS,B,6,F
+TIN,B,7,F
+IZG,A,6,F
